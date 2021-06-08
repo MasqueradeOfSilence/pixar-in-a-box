@@ -14,4 +14,4 @@ Imagination, wonder, wanderlust. A feeling of safety. But more than anything, im
 
 # Part C: Express -- Write the memory. 
 
-(Will do this next)
+I stood in the darkness, the lights of campfires doing little to obstruct the white stars that hung suspended in the sky. 
