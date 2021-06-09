@@ -9,7 +9,7 @@ I would also try to sneak Shrek, because Shrek is love and Shrek is life.
 # Part B: Why do you think you connected with these stories? Come up with at least one reason for each. 
 
 1. Finding Nemo teaches us about courage, and of overcoming fears in order to help those we love. The former would be incredibly helpful on a deserted island; the latter if you were stranded alongside others. 
-2. Harry Potter creates a beautiful world that I would love to live in, despite its dangers, and that could *technically* even be real. 
+2. Harry Potter creates a beautiful world that I would love to live in, despite its dangers, and that could *technically* even be real. As a kid below the age of 11, there is even the niggling little possibility that you could get a Hogwarts letter, which is quite magical. 
 3. Lilo and Stitch has a lot of cool aliens. Additionally, it teaches us of the importance of family. 
 
 # Part C: What, if anything, do these three films have in common? How are they different?
