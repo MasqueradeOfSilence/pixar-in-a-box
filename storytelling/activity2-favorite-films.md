@@ -4,7 +4,7 @@
 2. Harry Potter (any of them)
 3. Lilo and Stitch
 
-I would also try to sneak Shrek, because Shrek is love and Shrek is life. 
+I would also try to sneak in Shrek, because Shrek is love and Shrek is life. 
 
 # Part B: Why do you think you connected with these stories? Come up with at least one reason for each. 
 
