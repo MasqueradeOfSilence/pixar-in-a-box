@@ -15,3 +15,5 @@ I would also try to sneak in Shrek, because Shrek is love and Shrek is life.
 # Part C: What, if anything, do these three films have in common? How are they different?
 
 In common: They are all family movies. Harry Potter, however, is still more mature. Also, all of them have some element of unreality to them, which I like: talking fish, magical spells, and aliens from outer space. 
+
+Additionally, all of them involve people who feel out of place (Marlin for his anxieties, Harry for his magic, Lilo for losing her parents and being "weird") coming together and connecting with others. 
