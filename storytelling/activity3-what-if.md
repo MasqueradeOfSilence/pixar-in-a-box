@@ -1,9 +1,9 @@
 # Part A: What If Statements: Movies
-Finding Nemo: What if fish could talk and had dreams and goals just like us? 
+**Finding Nemo:** What if fish could talk and had dreams and goals just like us? 
 
-Harry Potter: What if there were kids out there with secret magical abilities? 
+**Harry Potter:** What if there were kids out there with secret magical abilities? 
 
-Lilo and Stitch: What if an alien came to visit you, but you ended up befriending it? 
+**Lilo and Stitch:** What if an alien came to visit you, but you ended up befriending it? 
 
 # Part B: What If Statements: Original
 1. What if someone claimed to come from space, and offered you a portal to an alternate reality? 
