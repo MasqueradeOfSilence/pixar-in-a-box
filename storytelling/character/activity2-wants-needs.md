@@ -5,6 +5,8 @@ Lilo = wants to be accepted by others, wants her parents back. She needs to take
 
 Harry = wants to defeat Lord Voldemort, also needs to defeat Lord Voldemort. But, ultimately he also just wants a peaceful and fun Hogwarts experience, and Voldy rather complicates that for him. 
 
+Nemo = wants independence, needs to get free from that tank. 
+
 # Part B: Try to identify one of your own wants and needs.
 
 Want = to succeed in animation, computer science, and creative writing. 
