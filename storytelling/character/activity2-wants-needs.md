@@ -10,6 +10,7 @@ Nemo = wants independence, needs to get free from that tank.
 # Part B: Try to identify one of your own wants and needs.
 
 Want = to succeed in animation, computer science, and creative writing. 
+
 Need = to be healthier, physically and mentally. To finish graduate school with a high GPA. 
 
 # Part C: Return to your character idea from the previous exercise. Brainstorm answers to the following questions:
