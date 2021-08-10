@@ -44,3 +44,5 @@ Because of that...she began to break free of the carnival's curse, and slowly sh
 Until finally...with the help of her friends, she battled the demons that ruled the carnival, and defeated them. 
 
 And ever since then...she showed great love to her family and friends, and never again forgot who she was. 
+
+The moral of the story...Remember who you are, who you were (as a child), who you will be, and those who love you. 
