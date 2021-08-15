@@ -8,7 +8,7 @@ Russell's face is directed towards Dug's directly, and vice versa. Also, Carl an
 
 Same with R & D's hands. (paws?) 
 
-
+![up](https://github.com/masqueradeofsilence/pixar-in-a-box/blob/main/image.jpg?raw=true)
 
 
 
