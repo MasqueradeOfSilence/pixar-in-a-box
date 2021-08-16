@@ -19,6 +19,11 @@
 
 # Part C:
 - Draw a character from your story performing different movements. Use line of action to guide each pose.
+
+Drawing humans is hard. Here are some Lang gestures
+
+![lang](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/humans_are_hard_to_draw.jpg?raw=true)
+
 - Combine line of action in a character with motion lines to create a scene with lots of movement from your story. Don’t be shy with your use of lines and shapes!
 
 
