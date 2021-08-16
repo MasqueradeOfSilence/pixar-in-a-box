@@ -26,7 +26,9 @@ Drawing humans is hard. Here are some Lang gestures
 
 - Combine line of action in a character with motion lines to create a scene with lots of movement from your story. Don’t be shy with your use of lines and shapes!
 
+"Skyhooks"
 
+![skyhook](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/skyhook.jpg?raw=true)
 
 
 
