@@ -22,9 +22,15 @@ Lots of circles -- positive, cute scene. Bright colors against a beautiful backd
 
 - What does the shape of the character imply?
 
+A narrow, bent-over rectangle: withdrawn, lacking confidence, anxious, but with inner strength. 
+
 - Does their shape change over time?
+
+The recetangle thickens and stands straighter up. 
 
 - Put this character in a scene from your story and try sketching out the composition using simple shapes.
 
+Scene: Parker, Selene, and Lang are standing off against Tenne the Ticketmaster. 
 
+![carnivile](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/IMG_4836.jpg?raw=true)
 
