@@ -15,6 +15,8 @@
 
 - Find a frame from one of your three favorite films which shows movement. On a sheet of paper, swiftly sketch the line(s) of action or motion lines that provide the sense of movement in the image.
 
+![hp](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/harry_potter.png?raw=true)
+
 # Part C:
 - Draw a character from your story performing different movements. Use line of action to guide each pose.
 - Combine line of action in a character with motion lines to create a scene with lots of movement from your story. Don’t be shy with your use of lines and shapes!
