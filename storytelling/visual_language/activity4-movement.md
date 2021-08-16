@@ -28,7 +28,7 @@ Drawing humans is hard. Here are some Lang gestures
 
 "Skyhooks"
 
-![skyhook](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/skyhook.jpg?raw=true)
+![skyhook](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/skyhooks_shaded.jpg?raw=true)
 
 
 
