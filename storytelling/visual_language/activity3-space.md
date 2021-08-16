@@ -45,6 +45,7 @@ I think this is upside down but whatever.
 
 # Part C: Try creating an image from your original story that displays the illusion of depth using positioning, weight, location, and size of lines or objects.
 
+It's a big...rough, and it shows some discrepancies in my figure drawing skills, but here we go: 
 
-
+![tenne_carnival](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/tenne_at_the_carnival.jpg?raw=true)
 
