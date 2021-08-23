@@ -12,7 +12,7 @@ Wonder, warmth, friendship
 
 Very high! 
 
-![values](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/VALUES.pdf?raw=true)
+![values](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/IMG_5682-2.jpg?raw=true)
 
 
 
