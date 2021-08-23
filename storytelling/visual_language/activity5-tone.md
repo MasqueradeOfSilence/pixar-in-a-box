@@ -12,7 +12,8 @@ Wonder, warmth, friendship
 
 Very high! 
 
+# Part B: Draw a row of 7 boxes. At one end, make the box as dark as possible. At the other end, leave the box empty. Fill in the rest of the boxes so that they gradually go from dark to light. You can do this with a pencil, pen, marker, paintbrush or anything else!
+
 ![values](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/IMG_5682-2.jpg?raw=true)
 
-
-
+# Part C: On the sheet of paper you drew your movement lines, try adding shading to show different values of light and dark. Try to create emphasis and help direct your viewer’s eye to the most important element of your scene.
