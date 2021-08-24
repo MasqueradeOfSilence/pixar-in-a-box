@@ -17,3 +17,5 @@ Very high!
 ![values](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/IMG_5682-2.jpg?raw=true)
 
 # Part C: On the sheet of paper you drew your movement lines, try adding shading to show different values of light and dark. Try to create emphasis and help direct your viewer’s eye to the most important element of your scene.
+
+![shading](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/IMG_5756.jpg?raw=true)
