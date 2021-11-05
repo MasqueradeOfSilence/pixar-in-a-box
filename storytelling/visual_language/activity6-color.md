@@ -23,4 +23,4 @@ The idea was to make Crush, Squirt, Nemo, and Dory look evil and dark, whereas B
 
 # Part C: Return to your story spine from the previous lesson. For each beat, compose an image that directs the viewer’s eye, conveys meaning, expresses emotion, and supports your story point. This is where your understanding of visual language can start to shine through!
 
-To be completed shortly. 
+1. Once upon a time...there was a girl who was kidnapped by a demonic carnival that she was visiting with her family. 
