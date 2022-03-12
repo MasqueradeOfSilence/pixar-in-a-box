@@ -28,3 +28,7 @@ The idea was to make Crush, Squirt, Nemo, and Dory look evil and dark, whereas B
 ![beat1](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/beat1.jpg?raw=true)
 
 2. Every day...she would participate in the horrifying events of the carnival, growing in magical power, her memories wiped and brain mind-controlled to serve its purpose.
+
+![beat2](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/image0.jpeg?raw=true)
+
+3. Until one day...an old friend of hers, plus 2 others, came into the carnival to meet with her and talk with her. While she could not remember her old friend, they still became friends once more. 
