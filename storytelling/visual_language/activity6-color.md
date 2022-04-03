@@ -32,3 +32,13 @@ The idea was to make Crush, Squirt, Nemo, and Dory look evil and dark, whereas B
 ![beat2](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/image0.jpeg?raw=true)
 
 3. Until one day...an old friend of hers, plus 2 others, came into the carnival to meet with her and talk with her. While she could not remember her old friend, they still became friends once more. 
+
+![beat3](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/IMG_6678.jpg)
+
+4. Because of that...she began to break free of the carnival's curse, and slowly shifted from wanting to rule the carnival to wanting to destroy it.
+
+5. Until finally...with the help of her friends, she battled the demons that ruled the carnival, and defeated them.
+
+6. And ever since then...she showed great love to her family and friends, and never again forgot who she was.
+
+7. The moral of the story...Remember who you are, who you were (as a child), who you will be, and those who love you.
