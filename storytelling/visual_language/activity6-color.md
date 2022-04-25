@@ -37,9 +37,11 @@ The idea was to make Crush, Squirt, Nemo, and Dory look evil and dark, whereas B
 
 4. Because of that...she began to break free of the carnival's curse, and slowly shifted from wanting to rule the carnival to wanting to destroy it.
 
-![beat4](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/IMG_7256.jpg)
+![beat4](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/IMG_7256.jpg?raw=true)
 
 5. Until finally...with the help of her friends, she battled the demons that ruled the carnival, and defeated them.
+
+![beat5](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/IMG_8451.jpg?raw=true)
 
 6. And ever since then...she showed great love to her family and friends, and never again forgot who she was.
 
