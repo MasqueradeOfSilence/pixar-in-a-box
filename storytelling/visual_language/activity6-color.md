@@ -47,4 +47,10 @@ The idea was to make Crush, Squirt, Nemo, and Dory look evil and dark, whereas B
 
 6. And ever since then...she showed great love to her family and friends, and never again forgot who she was.
 
+(Figure drawing is hard)
+
+![beat6](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/IMG_9147.jpg?raw=true)
+
 7. The moral of the story...Remember who you are, who you were (as a child), who you will be, and those who love you.
+
+![beat7](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/visual_language/IMG_9150.jpg?raw=true)
