@@ -53,12 +53,14 @@ Dory speaks to the whale to ask for help with finding Nemo.
 7) Small Soulhooks detach them fully.
 8) They float through the air and land in their chosen bodies. 
 9) Tim and Lang fight over one of the bodies.
-10) They settle in and the ride begins. 
-11) They experience horrors while on the attraction.
-12) Parker notices his abandoned body on the side of the attraction and gets sick. 
-13) Fires in the tunnel.  
-14) Tim adds that if they don't detach before the final tunnel, they will be stuck in the bodies forever unless someone else comes to replace them. 
-15) Parker panics, but everyone manages to detach in time. 
-16) They re-enter their bodies. 
-17) Privately, Selene suggests that something like the Soulhooks could be responsible for the zombie-like, demonic state of the carnival's inhabitants.
-18) Lang things that it's connected to the tallest ride in the park, because he sees it flickering whenever someone dies.
+10) A soul begs for Parker to take his place, and he agrees. 
+11) The soul leaves in delight.
+12) They settle in and the ride begins. 
+13) They experience horrors while on the attraction.
+14) Parker notices his abandoned body on the side of the attraction and gets sick. 
+15) Fires in the tunnel.  
+16) Tim adds that if they don't detach before the final tunnel, they will be stuck in the bodies forever unless someone else comes to replace them. 
+17) Parker panics, but everyone manages to detach in time. 
+18) They re-enter their bodies. 
+19) Privately, Selene suggests that something like the Soulhooks could be responsible for the zombie-like, demonic state of the carnival's inhabitants.
+20) Lang things that it's connected to the tallest ride in the park, because he sees it flickering whenever someone dies.
