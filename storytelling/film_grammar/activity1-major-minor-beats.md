@@ -63,4 +63,4 @@ Dory speaks to the whale to ask for help with finding Nemo.
 17) Parker panics, but everyone manages to detach in time. 
 18) They re-enter their bodies. 
 19) Privately, Selene suggests that something like the Soulhooks could be responsible for the zombie-like, demonic state of the carnival's inhabitants.
-20) Lang things that it's connected to the tallest ride in the park, because he sees it flickering whenever someone dies.
+20) Lang thinks that it's connected to the tallest ride in the park, because he sees it flickering whenever someone dies.
