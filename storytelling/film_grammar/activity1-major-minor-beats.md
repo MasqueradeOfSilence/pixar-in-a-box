@@ -49,18 +49,17 @@ Dory speaks to the whale to ask for help with finding Nemo.
 3) Linda asks how exactly they embark on the ride when no one ever seems to get on or off of it, and the same people are riding it for eternity. 
 4) Tim explains that it's through possession, and that the bodies on the roller coaster are mostly deceased. 
 5) They walk into the entrance dock. 
-6) They detach their minds from their bodies. 
-7) Small Soulhooks detach them fully.
-8) They float through the air and land in their chosen bodies. 
-9) Tim and Lang fight over one of the bodies.
-10) A soul begs for Parker to take his place, and he agrees. 
-11) The soul leaves in delight.
-12) They settle in and the ride begins. 
-13) They experience horrors while on the attraction.
-14) Parker notices his abandoned body on the side of the attraction and gets sick. 
-15) Fires in the tunnel.  
-16) Tim adds that if they don't detach before the final tunnel, they will be stuck in the bodies forever unless someone else comes to replace them. 
-17) Parker panics, but everyone manages to detach in time. 
-18) They re-enter their bodies. 
-19) Privately, Selene suggests that something like the Soulhooks could be responsible for the zombie-like, demonic state of the carnival's inhabitants.
-20) Lang thinks that it's connected to the tallest ride in the park, because he sees it flickering whenever someone dies.
+6) They detach their souls from their bodies using the Soulhooks.
+7) They float through the air and land in their chosen bodies as the ride starts
+8) Parker lands in a body, not cognizant of the soul trapped within.
+9) The soul leaves in delight, thanking Parker. 
+10) They experience horrors while on the attraction.
+11) Parker notices his abandoned body on the side of the attraction and gets sick. 
+12) Tim adds that if they don't detach before the final tunnel, they will be stuck in the bodies forever unless someone else comes to replace them. 
+13) Parker panics, but everyone manages to detach in time. 
+14) They re-enter their bodies. 
+
+These will not be included in this section, so I won't storyboard them for the next scene, but I need to remember them: 
+
+15) Privately, Selene suggests that something like the Soulhooks could be responsible for the zombie-like, demonic state of the carnival's inhabitants.
+16) Lang thinks that it's connected to the tallest ride in the park, because he sees it flickering whenever someone dies.
