@@ -14,3 +14,10 @@
 
   - When Chihiro takes one last look at the tower, she is off to the left with the tower at the right. It is a visually stunning shot that shows the beauty of the landscape and her emotions upon leaving. 
 
+## Part B: Return to the minor beats you identified in your story from the previous exercise. For each beat choose a shot type which would work well (wide, medium, close) and then do the following:
+
+- Sketch the frame for each of these three shots from the camera’s point of view. Remember to consider what you want the audience to know, and what you want them to feel.
+- Consider using either “centering” or “rule of thirds” to place your subjects within the frame.
+- To help you visualize the staging, imagine looking down on each of the three shot types. Put the camera and character(s) where you imagine they need to be in order to create the shot type. Add any notes, lines, or details that would indicate direction for camera or character.
+
+(This is where I regretted breaking down the scenes into so many beats)
