@@ -21,3 +21,23 @@
 - To help you visualize the staging, imagine looking down on each of the three shot types. Put the camera and character(s) where you imagine they need to be in order to create the shot type. Add any notes, lines, or details that would indicate direction for camera or character.
 
 This is where I regretted breaking down the scenes into so many beats. Also, pardon my horrendous figure drawing skills which will be worked on a few tutorials later in my art self-study. I do wish that PIAB would have some technical drawing foundation sections. 
+
+![1](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/film_grammar/IMG_8075.jpg?raw=true)
+
+![2](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/film_grammar/IMG_8076.jpg?raw=true)
+
+![3](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/film_grammar/IMG_8077.jpg?raw=true)
+
+![4](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/film_grammar/IMG_8078.jpg?raw=true)
+
+![5](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/film_grammar/IMG_8079.jpg?raw=true)
+
+![6](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/film_grammar/IMG_8081.jpg?raw=true)
+
+![7](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/film_grammar/IMG_8082.jpg?raw=true)
+
+![8](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/film_grammar/IMG_8083.jpg?raw=true)
+
+![9](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/film_grammar/IMG_8084.jpg?raw=true)
+
+![10](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/storytelling/film_grammar/IMG_8085.jpg?raw=true)
