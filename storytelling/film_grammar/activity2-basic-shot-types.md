@@ -20,4 +20,4 @@
 - Consider using either “centering” or “rule of thirds” to place your subjects within the frame.
 - To help you visualize the staging, imagine looking down on each of the three shot types. Put the camera and character(s) where you imagine they need to be in order to create the shot type. Add any notes, lines, or details that would indicate direction for camera or character.
 
-(This is where I regretted breaking down the scenes into so many beats)
+This is where I regretted breaking down the scenes into so many beats. Also, pardon my horrendous figure drawing skills which will be worked on a few tutorials later in my art self-study. I do wish that PIAB would have some technical drawing foundation sections. 
