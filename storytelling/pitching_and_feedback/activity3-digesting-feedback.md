@@ -6,7 +6,7 @@
 - Finally, re-pitch your story to the same person or group of people and see how it flies. You may need to go through this process several times before you and your team are happy with the results.
 
 ## My rewrite
-FICTIONAL PITCH: 
+### FICTIONAL PITCH: 
 
 - I am pitching this as a SINGLE SCENE within the context of an entire story. 
 
