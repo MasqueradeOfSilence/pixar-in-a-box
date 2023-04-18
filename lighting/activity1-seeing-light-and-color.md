@@ -8,3 +8,11 @@
 - Optional painting step: Trace a second copy of your image. Place the paper on piece of cardboard and paint the shapes; from darkest area to lightest area using white and black paint.
 
 ![grayscale_lighting](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/lighting/piab_lighting_practice.png?raw=true)
+
+# Part 2: Color
+- Do the same exercise as above but this time add colored paper to the sides of the set up box and see how color influences the white ball and its shadows.
+- Take a photo, print and trace the outlines as before. You must observe the regions of light and shadow very carefully.
+- Use colored pencils to fill in the shapes in order to match the color in your image as best you can.
+- Optional painting step: Trace another copy of your image on a new piece of paper. Try painting in the shapes that you outlined with the appropriate color. To make this easier you should use a spot screen to identify the color you are seeing within the shadows.
+
+![color_lighting](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/lighting/piab_colored_lighting_practice.png?raw=true)
