@@ -1,0 +1,13 @@
+# Part 1: Examining light roles
+- Start in a dark room
+- Place an orange a few inches from one side of the set up box.
+- Position one light to act as your key.
+- Move your key so that it comes from different places such as from the same place as your camera or from directly above your set.
+- Observe how this changes the shadows on and around the orange.
+- Pick your favorite position.
+- Position a second light to act as your fill
+- Observe how this changes the value of the shadows
+- If the light is too bright try putting a piece of cloth or paper over it.
+- Position a third light to act as a rim and/or kick.
+- **Optional:** Put colored paper or plastic in front of the lights to see if you can change the feeling of the scene.
+- Take a picture of your set up once you are happy with it. Give it a name!
