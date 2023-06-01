@@ -32,3 +32,5 @@ I used an apple because I don't really eat oranges -- can't handle the texture; 
 - Pick your favorite photo from the previous step and print it.
 - Trace the image on a piece of paper to outline the shadow and light shapes
 - Paint in the shapes by matching the colors as done in the previous exercise.
+
+![lighting](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/lighting/piab-lighting2.png?raw=true)
