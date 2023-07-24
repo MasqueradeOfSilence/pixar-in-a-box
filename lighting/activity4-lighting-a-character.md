@@ -15,7 +15,10 @@ Two attempts here.
 ### Can you light the character to look flat (no sharp shadows)?
 ![flat](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/lighting/IMG_7151.jpg?raw=true)
 ### If you change the color of the light on the character how does that impact your scene?
+
 The yellow light I used was softer and warmer than the white light, such as from my SAD lamp, which felt harsher and more austere. 
+
+![harsh_white_light](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/lighting/IMG_7143.jpg?raw=true)
 
 Remember to take pictures so that you can compare how your character looks under your various lighting setups. Give your images a name.
 
