@@ -4,6 +4,7 @@ This one took me a minute to finally do. Turns out, I'm not the biggest fan of c
 
 ## Return to your live action set but now swap out the orange for a toy character. Now try lighting your character in at least two different ways: 
 ### Can you get them to cast a long shadow or look mysterious?
+My github images are not rendering right now idk why
 ![mysterious1](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/lighting/IMG_7139.jpg?raw=true)
 ![mysterious2](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/lighting/IMG_7142.jpg?raw=true)
 
