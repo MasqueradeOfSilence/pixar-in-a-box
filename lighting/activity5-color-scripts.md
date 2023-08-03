@@ -3,9 +3,12 @@
 ## Questions for the Viewer
 - What can you tell about the story by looking at the color script?
 
-The script has a lot of dark blues and lighter oranges. Thus, it seems that there will be a lot of contrast between good and evil, or hope and sadness. (Trying to detach myself from the perspective of having already seen the movie)
+The script has a lot of dark blues and lighter oranges. Thus, it seems that there will be a lot of contrast between good and evil, or hope and sadness, in the story. (Trying to detach myself from the perspective of having already seen the movie)
   
 - What does it tell you about the overall tone & feel of the movie?
+
+It tackles some serious topics, but also leaves room for warmth and light. There will probably be a positive message at the end. 
+
 - Select three frames that have very different moods and explain what they make you feel and how color and light was used.
 
 ## Part 2: Practice
