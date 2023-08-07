@@ -11,7 +11,9 @@ It tackles some serious topics, but also leaves room for warmth and light. There
 
 - Select three frames that have very different moods and explain what they make you feel and how color and light was used.
 
-  The very first frame consists of bright colors, clear skies, and sun. It is vibrant yet peaceful, evoking a beautiful and warm day. Generally feels happy. 
+  The very first frame consists of bright colors, clear skies, and sun. It is vibrant yet peaceful, evoking a beautiful and warm day. Generally feels happy.
+
+  The hammock frame is almost entirely gray, washed-out grayish-blue, and white. Black shadows in the foreground add to the feeling of somberness and foreboding. The light coming from the city is harsh and austere, but beautiful. 
 
 ## Part 2: Practice
 - Below are three rough frames from the story reel for the short film Piper. Pick one of the three frames, print it out and color it in to create two distinct looks. What moods were you able to portray?
