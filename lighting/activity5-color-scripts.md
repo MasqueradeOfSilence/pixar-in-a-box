@@ -13,7 +13,9 @@ It tackles some serious topics, but also leaves room for warmth and light. There
 
   The very first frame consists of bright colors, clear skies, and sun. It is vibrant yet peaceful, evoking a beautiful and warm day. Generally feels happy.
 
-  The hammock frame is almost entirely gray, washed-out grayish-blue, and white. Black shadows in the foreground add to the feeling of somberness and foreboding. The light coming from the city is harsh and austere, but beautiful. 
+  The hammock frame is almost entirely gray, washed-out grayish-blue, and white. Black shadows in the foreground add to the feeling of somberness and foreboding. The light coming from the city is harsh and austere, but beautiful.
+
+  The frame with Ernesto in his cowboy hat, with his hand outstretched, is threatening and ominous. It is lit from the back as well as underneath to create scary, harsh lighting. Similar to the frame discussed above, the color is blue, evoking somberness. The background is blurred / using DOF such that Ernesto himself is emphazied. 
 
 ## Part 2: Practice
 - Below are three rough frames from the story reel for the short film Piper. Pick one of the three frames, print it out and color it in to create two distinct looks. What moods were you able to portray?
