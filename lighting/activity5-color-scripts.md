@@ -22,7 +22,11 @@ It tackles some serious topics, but also leaves room for warmth and light. There
 
   ![sunny](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/lighting/piab_piper1.png?raw=true)
 
-  I went for a more lighthearted, summery color scheme here. It's a bit difficult with how franctic the poor sandpiper looks, but the idea is that it's more of a normal obstacle that all pipers experience, and he will have fun after getting used to the waves. 
+  I went for a more lighthearted, summery color scheme here. It's a bit difficult with how franctic the poor sandpiper looks, but the idea is that it's more of a normal obstacle that all pipers experience, and he will have fun after getting used to the waves.
+
+  ![cloudy](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/lighting/piab_piper2_color2.png?raw=true)
+
+  I tried to make it more gray and bleak here. 
 
 ## Part 3: Generate
 - Do you have an idea for your own story? Or a story that you've read that you'd like to think about designing the lighting for? Apply what you've learned here and create a color script for it!
