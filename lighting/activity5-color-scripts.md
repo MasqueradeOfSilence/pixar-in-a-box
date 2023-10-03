@@ -35,3 +35,7 @@ It tackles some serious topics, but also leaves room for warmth and light. There
 I'll use Carnivile again. I am choosing the photo collage option in the interest of focusing on getting to CtrlPaint, since that's long overdue. 
 
 General color scheme: reds, blacks, blues, and dark purples. Generally a very somber, stormy, autumnal atmosphere, especially as the Augenstorms' approach at the end of autumn is a plot point throughout. 
+
+However, there are lots of more lighthearted fantasy parts of the story, when they aren't in the carnival, as well as scenes from Parker's world. So, I accounted for those in the color script as well. 
+
+![script](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/lighting/carnivile_color_script.png?raw=true)
