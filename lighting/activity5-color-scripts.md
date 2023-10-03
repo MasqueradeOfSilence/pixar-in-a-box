@@ -39,3 +39,5 @@ General color scheme: reds, blacks, blues, and dark purples. Generally a very so
 However, there are lots of more lighthearted fantasy parts of the story, when they aren't in the carnival, as well as scenes from Parker's world. So, I accounted for those in the color script as well. 
 
 ![script](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/lighting/carnivile_color_script.png?raw=true)
+
+Bottom tree scene is supposed to show a parking lot but I cropped it out by accident
