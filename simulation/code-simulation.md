@@ -7,3 +7,12 @@ This program simulates a particle falling due to gravity. Try changing the initi
 - Make the time step negative? _If you change the timestep from positive to negative as the physics simulation is running (it updates in real-time), you can cause the particle to bounce back up, effectively traveling backwards in time._
 
 Since we are simply tweaking existing variable values, there is no need to add code here.
+
+# Spring-Mass system
+
+This program simulates a particle connected to an anchor by a spring.
+
+Try changing the value of the k variable. Press "Restart" after changing the value.
+
+- How does the length of the spring change as k increases? *It gets shorter. Though glitchy behavior begins when you set it to super, super high values, and it actually seems to get longer.*
+- How does the speed of the particle change as k increases? *It moves much faster as k increases.*
