@@ -14,5 +14,5 @@ This program simulates a particle connected to an anchor by a spring.
 
 Try changing the value of the k variable. Press "Restart" after changing the value.
 
-- How does the length of the spring change as k increases? *It gets shorter. Though glitchy behavior begins when you set it to super, super high values, and it actually seems to get longer. According to my research on this issue, this is most likely an issue with the timestep being unable to accurately represent what is going on for very high values of k. In fact, put the value high enough and the spring will just vanish entirely.*
+- How does the length of the spring change as k increases? *It gets shorter. Though glitchy behavior begins when you set it to super, super high values, and it actually seems to get longer. According to my research on this issue, this is most likely an issue with the timestep being unable to accurately represent what is going on for very high values of k. In fact, put the value high enough and the spring will just vanish entirely. But when you decrease the timestep value to something like 0.01, the spring continually shortens with higher values of k as expected.*
 - How does the speed of the particle change as k increases? *It moves much faster as k increases.*
