@@ -31,7 +31,7 @@ How does the behavior of the spring change if you:
 
 This program simulates a particle connected to an anchor by a damped spring in two dimensions. Try changing the initial settings.
 
-- How does the initial position of the particle affect its position when the spring comes to rest? *It seems to come to rest at effectively the same position.*
+- How does the initial position of the particle affect its position when the spring comes to rest? *It seems to come to rest at effectively the same position.* NOTE I am going to double check on this
 - How does positionX compare to anchorX when the spring comes to rest?
 - How does positionY compare to anchorY when the spring comes to rest?
 - What causes the difference between the horizontal and vertical position?
