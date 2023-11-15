@@ -26,3 +26,12 @@ Try changing the value of k and the amount of damping. Press "Restart" each time
 How does the behavior of the spring change if you:
 - Keep damping constant and change k? *Lower values of k make the spring longer, higher values make it shorter*
 - Keep k constant and change damping? *Lower damping values are bouncier. Higher damping values come to rest very quickly.* 
+
+# 2D spring-mass system
+
+This program simulates a particle connected to an anchor by a damped spring in two dimensions. Try changing the initial settings.
+
+- How does the initial position of the particle affect its position when the spring comes to rest? *It seems to come to rest at effectively the same position.*
+- How does positionX compare to anchorX when the spring comes to rest?
+- How does positionY compare to anchorY when the spring comes to rest?
+- What causes the difference between the horizontal and vertical position?
