@@ -24,7 +24,7 @@ This program simulates a particle connected to an anchor by a damped spring. Can
 Try changing the value of k and the amount of damping. Press "Restart" each time you change a value.
 
 How does the behavior of the spring change if you:
-- Keep damping constant and change k? *Lower values of k make the spring longer, higher values make it shorter*
+- Keep damping constant and change k? *Lower values of k make the spring longer, higher values make it shorter. Larger spring constant = less displacement. [more info](https://www.jamesspring.com/news/spring-constant/)*
 - Keep k constant and change damping? *Lower damping values are bouncier. Higher damping values come to rest very quickly.* 
 
 # 2D spring-mass system
