@@ -33,5 +33,5 @@ This program simulates a particle connected to an anchor by a damped spring in t
 
 - How does the initial position of the particle affect its position when the spring comes to rest? *It seems to come to rest at effectively the same position. It does move differently, though.* 
 - How does positionX compare to anchorX when the spring comes to rest? _The particle settles in the same Y-position (relative to anchorX, that is) regardless of what positionX starts as. The changing of positionX only appears to affect the initial particle x-position plus the width of the pendulum's swing/arc._
-- How does positionY compare to anchorY when the spring comes to rest?
+- How does positionY compare to anchorY when the spring comes to rest? _Similar to above: while the absolute position of the particle changes when I move the y-anchor, and the trajectory of its swingn and initial position might change, its REST position is always the same relative to anchorY._
 - What causes the difference between the horizontal and vertical position?
