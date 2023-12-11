@@ -36,3 +36,9 @@ This program simulates a particle connected to an anchor by a damped spring in t
 - How does positionY compare to anchorY when the spring comes to rest? _Similar to above: while the absolute position of the particle changes when I move the y-anchor, and the trajectory of its swing and initial position might change, its REST position is always the same RELATIVE to anchorY._
 - What causes the difference between the horizontal and vertical position? _The spring force acts in both the horizontal and vertical directions, while the force of gravity only affects the vertical direction. So, vertical has more forces acting on it._
   - **NOTE:** I do not like the way this question was worded. It is ambiguous -- horizontal and vertical positions tend to not be the same _inherently_ unless you're at a position like 0,0 or 1,1 on the Cartesian plane, in which case the x- and y-coordinates would technically be the same. "Horizontal position" and "vertical position" imply looking at two different axes, so of course they are going to be different. I think a better way to word it would be "What causes the difference _in behavior_ between the particle's movement in the x-direction and the y-direction?" Or something like that. 
+
+# Multiple spring-mass system
+
+Modify this program to make your own creations to share with others.
+
+[LINK](https://www.khanacademy.org/computer-programming/mr-bouncy-the-triple-spring/5550943880003584)
