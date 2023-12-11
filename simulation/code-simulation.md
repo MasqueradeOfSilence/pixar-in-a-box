@@ -41,4 +41,6 @@ This program simulates a particle connected to an anchor by a damped spring in t
 
 Modify this program to make your own creations to share with others.
 
+_I made it very bouncy with 3 masses._
+
 [LINK](https://www.khanacademy.org/computer-programming/mr-bouncy-the-triple-spring/5550943880003584)
