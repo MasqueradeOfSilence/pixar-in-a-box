@@ -44,3 +44,5 @@ Modify this program to make your own creations to share with others.
 _I made it very bouncy with 3 masses._
 
 [LINK](https://www.khanacademy.org/computer-programming/mr-bouncy-the-triple-spring/5550943880003584)
+
+[In repo](https://github.com/MasqueradeOfSilence/pixar-in-a-box/blob/main/simulation/bouncy_mass_springs.js)
